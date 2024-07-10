@@ -1,3 +1,4 @@
+# Will require Chatterbot library installation.
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
 
