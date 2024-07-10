@@ -1,3 +1,4 @@
+# Python program to get some network configurations.
 import socket
 import requests
 def get_local_ip():
