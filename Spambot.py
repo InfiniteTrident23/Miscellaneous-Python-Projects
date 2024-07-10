@@ -1,3 +1,5 @@
+# Fun code to annoy your friends!
+# Requires pyautogui library installation.
 import time, pyautogui
 
 a = int(input("How many times do you wanna spam? "))
